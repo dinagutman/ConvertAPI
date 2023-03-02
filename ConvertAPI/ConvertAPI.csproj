@@ -13,8 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ConverterApi\BLConverter\BLConverter.csproj" />
-    <ProjectReference Include="..\..\ConverterApi\DALConverter\DALConverter.csproj" />
+    <ProjectReference Include="..\BLConverter\BLConverter.csproj" />
+    <ProjectReference Include="..\DALConverter\DALConverter.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 using BLConverter.Services;
 using DALConverter;
 using Microsoft.Extensions.Configuration;
